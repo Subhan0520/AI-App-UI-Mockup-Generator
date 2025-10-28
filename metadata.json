@@ -1,0 +1,5 @@
+{
+  "name": "AI App UI Mockup Generator",
+  "description": "An AI-powered app that takes a text prompt describing an app idea and automatically generates high-quality mobile app UI mockups for every screen mentioned.",
+  "requestFramePermissions": []
+}
